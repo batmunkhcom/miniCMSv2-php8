@@ -1,3 +1,4 @@
+<?php
 class DB {
     private $link;
     private $db;
